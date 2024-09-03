@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... jeux video
 - 🌱 I’m currently learning ... le devellopement front end et back end
 - 💞️ I’m looking to collaborate on ... tous le monde 
-- 📫 How to reach me ...
+- 📫 How to reach me ... partout
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... je suis français 
 
 <!---
 romains64200/romains64200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
