@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romains64200
-- 👀 I’m interested in ... jeux video
+- 👀 I’m interested in ... les jeux video
 - 🌱 I’m currently learning ... le devellopement front end et back end
 - 💞️ I’m looking to collaborate on ... tous le monde 
 - 📫 How to reach me ... partout
